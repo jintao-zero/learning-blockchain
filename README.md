@@ -5,3 +5,6 @@
 
 ## Ethereum 
 * [精通以太坊——实现数字合约](https://github.com/inoutcode/ethereum_book)
+
+## Polkadot
+* [how-to-launch-a-project-on-polkadot-dapp-parachain-and-bridge](https://blaize.tech/article-type/how-to-launch-a-project-on-polkadot-dapp-parachain-and-bridge/)
