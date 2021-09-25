@@ -8,3 +8,4 @@
 
 ## Polkadot
 * [how-to-launch-a-project-on-polkadot-dapp-parachain-and-bridge](https://blaize.tech/article-type/how-to-launch-a-project-on-polkadot-dapp-parachain-and-bridge/)
+* [The Polkadot Parachain Host Implementers' Guide](https://github.com/paritytech/polkadot/tree/master/roadmap/implementers-guide)
